@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jian Tang"
-description              : "This is the academic homepage of Ph.D. Tang."
-repository               : "tangjyan/tangjyan.github.io"
+title                    : "Hao Su"
+description              : "Zhengzhou University"
+repository               : "suhaosh/suhaosh.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
@@ -21,42 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jian Tang"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Huazhong university of science and technology"
-  location         : "Wuhan, China"
-  employer         : #"Hefei General Machinery Research Institute"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
-  uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "tangjyan"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0001-9658-209X"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : 
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
+  name             : "Hao Su"
+  avatar           : "images/sh_all.jpg"
+
+  employer         : #"Zhengzhou University"
+  googlescholar    : "https://scholar.google.com/citations?user=yf4XwjEAAAAJ"
+  email            : "iesuhao@zzu.edu.cn"
+  github           : "SwordHolderSH"
+
 
 
 # Reading Files
