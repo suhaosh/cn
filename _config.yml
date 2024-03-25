@@ -1,9 +1,4 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve`. If you change this file, please restart the server process.
+
 
 # Site Settings
 title                    : "苏 昊"
@@ -21,7 +16,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hao Su"
+  name             : "苏昊"
   avatar           : "images/sh_all.jpg"
 
   employer         : #"郑州大学"
