@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hao Su"
-description              : "Zhengzhou University"
+title                    : "苏 昊"
+description              : "郑州大学"
 repository               : "suhaosh/suhaosh.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -24,7 +24,7 @@ author:
   name             : "Hao Su"
   avatar           : "images/sh_all.jpg"
 
-  employer         : #"Zhengzhou University"
+  employer         : #"郑州大学"
   googlescholar    : "https://scholar.google.com/citations?user=yf4XwjEAAAAJ"
   email            : "iesuhao@zzu.edu.cn"
   github           : "SwordHolderSH"
