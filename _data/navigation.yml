@@ -4,16 +4,16 @@ main:
     url: "/#about-me"
 
   - title: "新闻"
-    url: "/#-educations"
+    url: "https://suhaosh.github.io/"
 
   - title: "发表论文"
-    url: "/#-publications"
+    url: "https://suhaosh.github.io/"
 
-  - title: "荣誉"
-    url: "/#-honors-and-awards"
+  # - title: "荣誉"
+  #   url: "/#-honors-and-awards"
 
-  - title: "教育经历"
-    url: "/#-conferences"
+  # - title: "教育经历"
+  #   url: "/#-conferences"
 
-  - title: "合作"
-    url: "/#-internships"
+  # - title: "合作"
+  #   url: "/#-internships"
