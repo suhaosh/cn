@@ -21,7 +21,10 @@ redirect_from:
 
 主要研究方向：生成式人工智能、强化学习、计算机视觉和图形学
 
- <a href='https://scholar.google.com/citations?user=yf4XwjEAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+ ##  工作经历
+
+2024.02–至今，直聘副研究员，郑州大学，计算机与人工智能学院
+2024.06–至今，指导专家， 中国人民解放军军事科学院国防科技创新研究院
 
 
 
